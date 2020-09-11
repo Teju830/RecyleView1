@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Recyle</string>
+    <string-array name="titles">
+        <item>Alpha\n
+            version:1.0\n
+            API level:1\n
+            Release date :23-09-2008</item>
+        <item>Beta\n
+        version:1.1\n
+            API level:2\n
+            Release date :09-02-2009</item>
+        <item>Cupcake
+        version:1.5\n
+            API level:3\n
+            Release date :27-04-2009</item>
+        <item>Donut\n
+        version:1.6\n
+            API level:4\n
+            Release date :15-09-2009</item>
+        <item>Eclair\n
+            version:2.0-2.1\n
+            API level:5-7\n
+            Release date :26-10-2009</item>
+        <item>Froyo \n
+            version:2.0-2.2.3\n
+            API level:8\n
+            Release date :20-05-2010</item>
+        <item>Ginger Bread \nversion:2.3-2.3.7\n
+            API level:9-10\n
+            Release date :06-12-2010</item>
+        <item>Honeycomb\nversion:3.0-3.2.6\n
+            API level:11-13\n
+            Release date :22-02-2011</item>
+        <item>Icecream Sandwich\n
+        version:4.0-4.0.4\n
+            API level:14-15\n
+            Release date :18-10-2011</item>
+        <item>Jelly Beanversion:4.1-4.3.1\n
+            API level:16-18\n
+            Release date :09-07-2012</item>
+        <item>Kitkat\n
+            version:4.4-4.4.4\n
+            API level:19-20\n
+            Release date :31-10-2013</item>
+        <item>Lollipop
+            \nversion:5.0-5.1.1\n
+            API level:21-22\n
+            Release date :12-11-2014</item>
+        <item>Marshmallow\n
+        version:6.0-6.0.1\n
+            API level:23\n
+            Release date :05-10-2015</item>
+        <item>Nough\nversion:7.0\n
+            API level:24\n
+            Release date :22-08-2016</item>
+        <item>Oreo\nversion:8.1\n
+            API level:26\n
+            Release date :21-08-2017</item>
+        <item> Pie\n
+        version:9.0\n
+            API level:28\n
+            Release date :06-08-2018</item>
+        <item> Q\n
+        version:10.0\n
+            API level:29\n
+            Release date :03-09-2019</item>
+        <item>Android 11\n
+        version:18\n
+            API level:30\n
+            Release date :08-09-2020</item>
+    </string-array>
+
+</resources>
